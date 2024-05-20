@@ -35,7 +35,7 @@ learn to configure it properly. Learn more: https://torproject.org/
 <div align="center">
   <table>
     <tr>
-      <td><a href="https://github.com/R4GN4R0K-SEC/orbot/releases/latest">Download the Latest Orbot Release</a></td>
+      <td><a href="https://github.com/guardianproject/orbot/releases/latest">Download the Latest Orbot Release</a></td>
     </tr>
     <tr>
       <td><a href="https://support.torproject.org/faq/">Tor FAQ (Frequently Asked Questions)</a></td>
